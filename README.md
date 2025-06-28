@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Dashboard using Power BI
+# 📊 Supermarket Sales Dashboard using Power BI
 
 An interactive dashboard project analyzing sales, profit, and discount trends from a retail superstore dataset. Built entirely in Power BI using the “Sample - Superstore” Excel dataset.
 
@@ -8,7 +8,7 @@ An interactive dashboard project analyzing sales, profit, and discount trends fr
 
 - `Sample - Superstore.xlsx`  – A retail dataset containing 9994 rows with sales, profit, discount, region, state, and product category details.
 - `supermarket-sales.pdf` – Exported dashboard view  
-- `Superstore Dashboard.pbix` – Power BI source file 
+- `supermarket-sales.pbix` – Power BI source file 
 
 
 
@@ -61,32 +61,32 @@ An interactive dashboard project analyzing sales, profit, and discount trends fr
 ## 🗂️ Project Structure
 
 ```bash
-📁 Superstore-PowerBI
+📁 Supermarket-sales-report
 ├── Sample - Superstore.xlsx
-├── Superstore Dashboard.pbix
+├── supermarket-sales.pbix
 ├── supermarket-sales.pdf
+├── case_study.pdf
 ├── assets/
 │   └── superstore-dashboard.png
 └── README.md
 ```
 
 
-## 📝 Case Study Summary
 
-This dashboard project analyzes a U.S.-based superstore’s sales data to identify profit leaks, product performance, and regional trends. The goal was to enable better decision-making using visual analytics.
 
-**Problem Statement:**  
-To understand how different regions, product categories, and discounts affect profit and sales.
+## 📝 Full Case Study
 
-**Key Findings:**  
-- Some states had high sales but negative profit  
-- Discount-heavy regions showed lower profit margins  
-- Tech category outperformed Furniture and Supplies  
-- Opportunities identified in underperforming states
+This project includes a detailed case study covering:
 
-**Outcome:**  
-Enabled better inventory planning, more targeted discounts, and optimized product focus by region.
+- Executive Summary
+- Problem Statement & Objective
+- Dataset Description
+- Metrics Summary
+- Tools & Features
+- Key Insights & Business Impact
+- Outcome & Future Enhancements
 
+📄 [Download Case Study (PDF)](./case_study.pdf)
 
 
 ## 📬 Contact
