@@ -90,6 +90,6 @@ This project includes a detailed case study covering:
 
 
 ## 📬 Contact
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ardhigagan)  
+ 
 GitHub: [@ardhigagan](https://github.com/ardhigagan)
+GitHub: [@anshhh1101](https://github.com/anshhh1101)
